@@ -1,0 +1,11 @@
+.nav {
+  height: 64px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid var(--border);
+}
+
+.wrapper {
+  width: 97%;
+  margin: auto;
+}
